@@ -1,0 +1,4 @@
+#pragma once
+
+EFI_SYSTEM_TABLE *gST;
+EFI_BOOT_SERVICES *gBS;
