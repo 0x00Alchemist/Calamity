@@ -1,3 +1,4 @@
+# Calamity
 ![header](Images/header.png)
 
 **Calamity** is a project that was written to better understand how the **Windows Platform Binary Table** (WPBT) works.
