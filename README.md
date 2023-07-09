@@ -16,7 +16,7 @@ The project uses [VisualUefi](https://github.com/ionescu007/VisualUefi) to make 
 
 ## Images
 
-![WPBT](Images/wpbt.png)
+![WPBT](Images/wpbt.jpg)
 
 ![ACPI](Images/acpi_table.png)
 
